@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/knockhead11" target="blank"><img src="https://img.shields.io/twitter/follow/knockhead11?logo=twitter&style=for-the-badge" alt="knockhead11" /></a> </p>
 
-- 🔭 I’m currently working on **crunch craft**
+- 🔭 I’m currently working at **crunch craft**
 
 - 🌱 I’m currently learning **Devops**
 
