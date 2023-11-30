@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://hashnode.com/@hassanb111](https://hashnode.com/@hassanb111)
+- 📝 I regularly write articles on [https://hassandevops.online/](https://hassandevops.online/)
 
 - 📫 How to reach me **muhammadhassanb111@gmail.com**
 
